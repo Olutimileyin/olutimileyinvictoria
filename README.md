@@ -1,13 +1,13 @@
 # Olutimileyin Victoria | Data Analyst
 
-🎯 Passionate about using data to drive insights in public health and business strategy.
+ Passionate about using data to drive insights in public health and business strategy.
 
-## 💻 Skills:
+##  Skills:
 - **Data Analysis:** SQL, Python (Pandas, Matplotlib), Power BI, Tableau, Excel
 - **Databases:** SQL Server
 - **Visualization:** Power BI, Tableau, Matplotlib
 
-## 📊 Featured Projects:
+##  Featured Projects:
 1. **Effectiveness of Health Awareness Campaigns**  
    - Analyzed public health campaigns on Vaccination, HIV, and Malaria  
    - **Tools Used:** SQL, Power BI, Excel  
@@ -17,9 +17,9 @@
    - Used SQL and Power BI to analyze customer retention data  
    -  
 
-## 🎓 Certifications:
+##  Certifications:
 - Cirvee tech academy
 
-## 📫 Connect with Me:
+##  Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/ojedokun-olutimileyin-8094611b4/) | [Email](mailto:olutimileyinvictoria@gmail.com)
 
