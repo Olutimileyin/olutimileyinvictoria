@@ -8,14 +8,12 @@
 - **Visualization:** Power BI, Tableau, Matplotlib
 
 ##  Featured Projects:
-1. **Effectiveness of Health Awareness Campaigns**  
-   - Analyzed public health campaigns on Vaccination, HIV, and Malaria  
-   - **Tools Used:** SQL, Power BI, Excel  
+ 1. Supply Chain Analytics Dashboard
+Tools: Python, Excel, Power BI
+
    -   
 
-2. **Customer Churn Analysis**  
-   - Used SQL and Power BI to analyze customer retention data  
-   -  
+
 
 ##  Certifications:
 - Cirvee tech academy
