@@ -10,7 +10,10 @@
 ##  Featured Projects:
  1. Supply Chain Analytics Dashboard
 Tools: Python, Excel, Power BI
-
+2. Customer Purchase Behavior and Sales Trend Analysis for Online Retail
+Optimization
+   Tools: Excel
+   
    -   
 
 
